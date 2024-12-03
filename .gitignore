@@ -1,0 +1,19 @@
+# File di compilazione Python
+*.pyc
+__pycache__/
+
+# Configurazioni di editor
+.vscode/
+.idea/
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Output directory
+build/
+dist/
+
+# Ambienti virtuali Python
+venv/
+.venv/
