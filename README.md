@@ -1,9 +1,9 @@
 # Esercizi Python
 
-Questo repository contiene tutti gli esercizi svolti in Python per il corso XYZ.
+Questo repository contiene tutti gli esercizi svolti in Python per il corso EPICODE di Programming Principles.
 
 ## Struttura del Repository
-- Ogni cartella rappresenta un'esercitazione (es. `Esercitazione01`, `Esercitazione02`).
+- Ogni cartella rappresenta un'esercitazione (es. `Esercitazione01`, `Esercitazione02`) in ordine cronologico.
 - All'interno di ogni esercitazione ci sono gli esercizi numerati (`Esercizio1`, `Esercizio2`, ecc.).
 
 ## Esecuzione
